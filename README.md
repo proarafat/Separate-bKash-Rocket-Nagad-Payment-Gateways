@@ -43,8 +43,12 @@ Go to **WooCommerce > Settings > Payments**, select the payment method (bKash, R
 
 == Screenshots ==
 1. Checkout page with separate payment options.
+   ![image](https://github.com/user-attachments/assets/46eb7b90-fa8c-4a67-a226-cda51322f4a7)
 2. Admin settings for bKash.
+  ![image](https://github.com/user-attachments/assets/0ae128b3-79ea-470c-a45c-3aa65edea35d)
 3. Order details with payment information.
+   ![image](https://github.com/user-attachments/assets/dc7e9e80-9756-4b18-9e8b-e073aa27a1c2)
+
 
 == Changelog ==
 = 1.0 =
